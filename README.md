@@ -17,14 +17,12 @@ input_text = "This is a example for the LLMpy package. This code workes! You wil
 
 # define a input
 input_words = "This is"
-# define a context length
-context_legth = 2 # the context length must match the number of input words
 
 # create a learn dict
-keyword_dict = statLLM.create_keyword_dict(input_text, context_length)
+keyword_dict = statLLM.create_keyword_dict(input_text)
 
 # generate a text
-generated_text = statLLM.generate_text(input_words.lower(), keyword_dict, context_length)
+generated_text = statLLM.generate_text(input_words.lower(), keyword_dict)
 
 # print the result
 print(generated_text)
