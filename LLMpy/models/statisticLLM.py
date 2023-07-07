@@ -1,6 +1,6 @@
 # #################################################################################################
 # Description: statisticLLM implementaion for LLMpy
-# Author: Lino Brendler, 2023
+# Author: AstroQuantumphysicist, 2023
 # #################################################################################################
 
 import random
