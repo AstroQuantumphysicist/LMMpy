@@ -1,5 +1,7 @@
 # LLMpy
 
+![LLMpy Logo](https://github.com/AstroQuantumphysicist/LMMpy/blob/main/RepoData/IMG_4306.jpeg)
+
 LLMpy is a package that allows to easily create advanced Large Language Models. It uses its on implementation of all the models, from statistical to transformer-based.
 
 The Package is stable but it has only the statisticLLM implemented yet.
