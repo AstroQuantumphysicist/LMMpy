@@ -12,7 +12,7 @@ setup(
     name="LLMpy",
     version=VERSION,
     author="AstroQuantumphysicist",
-    author_email="<linobrendler@linoia.net>",
+    author_email="<--->",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
