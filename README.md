@@ -22,7 +22,7 @@ context_legth = 2 # the context length must match the number of input words
 keyword_dict = statLLM.create_keyword_dict(input_text, context_length)
 
 # generate a text
-generated_text = stat.LLM.generate_text(input_words.lower(), keyword_dict, context_length)
+generated_text = statLLM.generate_text(input_words.lower(), keyword_dict, context_length)
 
 # print the result
 print(generated_text)
