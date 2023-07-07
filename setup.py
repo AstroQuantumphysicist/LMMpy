@@ -11,7 +11,7 @@ LONG_DESCRIPTION = 'A package that allows to easily create advanced Large Langua
 setup(
     name="LLMpy",
     version=VERSION,
-    author="Lino Brendler",
+    author="AstroQuantumphysicist",
     author_email="<linobrendler@linoia.net>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
