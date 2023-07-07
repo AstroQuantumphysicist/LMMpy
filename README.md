@@ -10,7 +10,7 @@ The Package is stable but it has only the statisticLLM implemented yet.
 ```python
 # import the library
 import LLMpy as llm
-from LLMpy import models.statisticLLM as statLLM
+from LLMpy import statLLM
 
 # define text or load it from a file
 input_text = "This is a example for the LLMpy package. This code workes! You will wonder about the output because this is a LLM"
