@@ -31,8 +31,4 @@ print(generated_text)
 ```
 
 ## Installation
-You can install the package with pip:
-```pip install LLMpy```
-
-## Compabilytie
-You can use this package on all devices with Python 3.10 or higher.
+You can install the package like in the wiki with pip
