@@ -16,13 +16,13 @@ from LLMpy import statLLM
 input_text = "This is a example for the LLMpy package. This code workes! You will wonder about the output because this is a LLM"
 
 # define a input
-input_words = "This is"
+input_word = "This"
 
 # create a learn dict
 keyword_dict = statLLM.create_keyword_dict(input_text)
 
 # generate a text
-generated_text = statLLM.generate_text(input_words.lower(), keyword_dict)
+generated_text = statLLM.generate_text(input_word.lower(), keyword_dict)
 
 # print the result
 print(generated_text)
