@@ -13,7 +13,7 @@ import LLMpy as llm
 from LLMpy import statLLM
 
 # define text or load it from a file
-input_text = "This is a example for the LLMpy package. This code workes! You will wonder about the output because this is a LLM"
+input_text = "This is a example for the LLMpy package. This code workes! You will wonder about the output because this is a LLM."
 
 # define a input
 input_word = "This"
